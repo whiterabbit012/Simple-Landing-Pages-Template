@@ -1,18 +1,17 @@
 * {
-    box-sizing: border-box;
-    padding: o;
-    margin: 0;
+  box-sizing: border-box;
 }
 
 body {
     margin: 0;
+    padding-block-start: 1.25rem;
+    line-height: 1.6rem;
     font-family: "Poppins", sans-serif;
     font-weight: 400;
     font-style: normal;
     background: #fbfeff;
     color: black;
-    line-height: 1.6;
-  }
+   }
   
   .container {
     max-width: 900px;
@@ -31,7 +30,7 @@ body {
     font-weight: 800;
     font-style: normal;
     font-size: 2.75rem;
-    margin-bottom: 1rem;
+    margin-bottom: 1.6rem;
   }
   
   .hero p {
@@ -72,6 +71,7 @@ body {
     padding: 1.25rem;
     border-radius: 10px;
     margin-top: 1rem;
+    line-height: 1.6rem;
   }
   
   ul {
@@ -81,7 +81,7 @@ body {
   .footer {
     text-align: center;
     margin-top: 5rem;
-    font-size: 0.8rem;
+    font-size: 0.875;
     color: #777;
   }
   

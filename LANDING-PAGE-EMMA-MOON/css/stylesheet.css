@@ -23,7 +23,7 @@ body {
   /* HERO */
   .hero {
     text-align: center;
-    padding: 20px 20px;
+    padding: 1.25rem;
   }
   
   .hero h1 {
@@ -43,7 +43,7 @@ body {
   
   .btn {
     display: inline-block;
-    padding: 16px 24px;
+    padding: 1rem 1.5rem;
     margin-block-end: 1.3rem;
     background: greenyellow;
     color: black;
@@ -59,7 +59,7 @@ body {
   }
   
   h2 {
-    margin-top: 60px;
+    margin-top: 3.75rem;
     font-size: 1.8rem;
   }
   
@@ -69,19 +69,19 @@ body {
     flex-direction: column;
     background: #373737;
     color: white;
-    padding: 20px;
+    padding: 1.25rem;
     border-radius: 10px;
-    margin-top: 15px;
+    margin-top: 1rem;
   }
   
   ul {
-    padding-left: 20px;
+    padding-left: 1.25rem;
   }
   
   .footer {
     text-align: center;
-    margin-top: 80px;
-    font-size: 14px;
+    margin-top: 5rem;
+    font-size: 0.8rem;
     color: #777;
   }
   
